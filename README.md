@@ -1,4 +1,5 @@
 # Appstore_Crawler
+This is a project completed by me under the instruction of bittiger's staff.
 
 This is a crawler used to crawl down the app info from Huawei Android Market website. Written in Python 2.7.
 
